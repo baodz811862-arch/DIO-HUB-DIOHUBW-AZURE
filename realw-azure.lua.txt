@@ -1,5 +1,5 @@
 
-getgenv().script_key = "DIOHUB"
+getgenv().script_key = ""
 getgenv().Theme = {
     LightBlue = {
         BackgroundColor = Color3.fromRGB(249, 249, 251),
